@@ -1,4 +1,4 @@
-//
+// Wulandari Nurhasanah - 3411201029
 //Sample "Welcome to Java Programming!" application
 //
 public class TestGreet {
